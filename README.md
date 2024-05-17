@@ -1,12 +1,16 @@
-<h2 align = "center"> Hi World! </h3>
-<h3 align = "center">I'm João and I'm a FullStack developer from Brazil! </h3>
+### Hello World!  Welcome to my GitHub profile.
+----
+My name is João Carvalho, I live in Brazil and I'm 18 years old.
 
+I am a technology enthusiast since i started to study Robotics and Artificial Intelligence in the last year. I'm currently attending to Computer Science at The State University of Rio de Janeiro (UERJ).
+
+<div>
+🔭 I’m currently working as Administrative Assistant at Obra Social Dona Meca
 <br/>
-
-<div align = "center">
-🔭 I’m currently working as Administrative Assistant <br/>
-🌱 I’m currently learning HTML and Css <br/>
-📫 How to reach me:  <br/>
+🌱 I’m currently learning HTML and Css 
+<br/>
+📫 How to reach me:  
+<br/>
 <a href="linkedin.com/in/joaoncarvalho/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
