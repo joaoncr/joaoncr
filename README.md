@@ -2,7 +2,7 @@
 ----
 My name is João Carvalho, I live in Brazil and I'm 18 years old.
 
-I am a technology enthusiast since i started to study Robotics and Artificial Intelligence in the last year. I'm currently attending to Computer Science at The State University of Rio de Janeiro (UERJ).
+I am a technology enthusiast since i started to study Robotics and Artificial Intelligence in the last year. Nowadays, I'm attending to Computer Science at The State University of Rio de Janeiro (UERJ).
 
 <div>
 🔭 I’m currently working as Administrative Assistant at Obra Social Dona Meca
