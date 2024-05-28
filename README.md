@@ -24,7 +24,7 @@ I am a technology enthusiast since i started to study Robotics and Artificial In
 <h2> Languages, Frameworks and Tools </h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,bootstrap,jquery" /><br>
 </div>
 
 <br/>
