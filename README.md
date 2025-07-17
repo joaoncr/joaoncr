@@ -1,8 +1,8 @@
 ### Hello World!  Welcome to my GitHub profile.
 ----
-My name is João Carvalho, I live in Brazil and I'm 18 years old.
+My name is João Carvalho, I live in Brazil and I'm 19 years old.
 
-I am a technology enthusiast since i started to study Robotics and Artificial Intelligence in the last year. Nowadays, I'm attending to Computer Science at The State University of Rio de Janeiro (UERJ).
+I am a technology enthusiast since i started to study Robotics and Artificial Intelligence in 2023. Nowadays, I'm attending to Computer Science at The State University of Rio de Janeiro (UERJ).
 
 <div>
 
@@ -12,7 +12,7 @@ I am a technology enthusiast since i started to study Robotics and Artificial In
 <br/>
 📫 How to reach me:  
 <br/>
-<a href="[linkedin.com/in/joaoncarvalho/](https://www.linkedin.com/in/joaoncarvalho/)" target="_blank">
+<a href="https://www.linkedin.com/in/joaoncarvalho" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
 <a href="mailto:carvalho.jjnc@gmail.com" target="_blank">
