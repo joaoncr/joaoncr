@@ -6,13 +6,13 @@ I am a technology enthusiast since i started to study Robotics and Artificial In
 
 <div>
 
-🔭 I’m currently working as Administrative Assistant at Obra Social Dona Meca
+🔭 I’m currently working as Administrative Apprentice at State Grid Brazil Holding S.A.
 <br/>
 🌱 I’m currently learning HTML and Css 
 <br/>
 📫 How to reach me:  
 <br/>
-<a href="linkedin.com/in/joaoncarvalho/" target="_blank">
+<a href="[linkedin.com/in/joaoncarvalho/](https://www.linkedin.com/in/joaoncarvalho/)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
 <a href="mailto:carvalho.jjnc@gmail.com" target="_blank">
